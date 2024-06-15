@@ -1,2 +1,2 @@
 polar:
-  greeting: "Welkome to the catalog from the config service - this message is updated during both the catalog-service and config-service is running!!!"
+  greeting: "Welkome to the catalog from the config service - this message is updated during both the catalog-service and config-service is running!"
